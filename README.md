@@ -6,10 +6,13 @@ My Big Dream is become a known programmer who is writing big games or programs i
 I'm working on Linux actually, but I didn't leave windows :D
 
 Actual language: Python 3
+
 Known language: C++ and SFML, HTML, CSS
+
 Future languages: Library for python 3-PyGame, C#, Java (Maybe), PHP, MySQL, JavaScript
 
 Where am I learning? In my own home, on linux
+
 What linux am I using? Actually I am using Kali Linux, because that distribution have all
   what I want, it's ideally for programmers like me :) And have really nice, and intuition GUI
 
